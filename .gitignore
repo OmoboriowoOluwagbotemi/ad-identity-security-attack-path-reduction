@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.kdbx
+*.pfx
+*.key
+*password*
+*secret*
+raw-exports/
